@@ -26,4 +26,5 @@ ggplot(merged_sf) +
   scale_fill_viridis_c(name = "GII Difference (2010-2019)", option = "C") +
   labs(title = "Global Gender Inequality Index Difference (2010-2019)") +
   theme_minimal()
+#画图展示
 
